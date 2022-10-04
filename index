@@ -1,0 +1,12 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Li's Music</title>
+</head>
+<body>
+
+<h1 style="background-color:rgb(29, 185, 84);">Li's Music Site</h1>
+<p style="background-color:rgb(29, 185, 84);">Welcome, to a link to my Spotify Page:</p>
+<a href="https://open.spotify.com/user/lucvdpasch?si=a4d72a5173ce4f99">My Spotify Page!</a> 
+</body>
+</html> 
